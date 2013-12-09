@@ -1,0 +1,9 @@
+<html>
+   <body>
+      <form method="post" action="process.php">
+         <input type="hidden" name="action" value="start"/>
+         <input type="submit" value="Start the Test"/>
+      </form>
+      
+   </body>
+</html>
